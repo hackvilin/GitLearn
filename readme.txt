@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Test branch fast foward.
 Test no fast forward.
+I'm in branch dev.
