@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Test branch fast foward.
 Test no fast forward.
 I'm in branch dev.
+Test git push branch.
